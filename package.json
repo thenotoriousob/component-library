@@ -12,10 +12,10 @@
     "nanoid": "^5.0.7",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "react-icons": "^4.4.0"
+    "react-icons": "^5.3.0"
   },
   "devDependencies": {
-    "vite": "latest",
-    "@vitejs/plugin-react": "*"
+    "@vitejs/plugin-react": "*",
+    "vite": "latest"
   }
 }
